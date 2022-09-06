@@ -1,0 +1,7 @@
+{
+	"name": "INTERNET-SPEED-CHECK",
+	"authurl": "https://api-prd.kpn.com/oauth/client_credential/accesstoken?grant_type=client_credentials",
+	"baseurl": "https://api-prd.kpn.com/network/kpn/internet-speed-check/offer",
+	"client": "abcdefghisjjdjsgsgsgsg",
+	"secret": "FafgehskvjdJ"
+}
